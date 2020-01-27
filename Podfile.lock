@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (3.2.0)
+  - IQKeyboardManagerSwift (3.3.7)
+  - Locksmith (2.0.6)
+  - M13Checkbox (1.1.2)
+  - SwiftyJSON (2.3.2)
+  - ViewDeck (2.4.1)
+  - XCGLogger (3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - IQKeyboardManagerSwift (~> 3.3.5)
+  - Locksmith (~> 2.0.1)
+  - M13Checkbox (~> 1.1.2)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - ViewDeck (~> 2.4)
+  - XCGLogger (~> 3.2)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 42bdb102d2624b143c07850ebdc1537d5b6579b6
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  IQKeyboardManagerSwift: 7d06186460470f3f7e767630861a1303980ee5cf
+  Locksmith: 42ec3d535448e3c218f4342782b07a222b1acfd1
+  M13Checkbox: 0c0bb08dcd144c4ea33f883b68270f3f56908ea2
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  ViewDeck: e4c744cb5383cbae40cf286c6e7246df33962020
+  XCGLogger: da1f341f4bb8979db6e1df64232f04d9698402d4
+
+COCOAPODS: 0.39.0
